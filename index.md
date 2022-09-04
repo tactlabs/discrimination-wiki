@@ -1,4 +1,4 @@
-# Wiki
+# Discrimination Wiki
 
 Description
 
