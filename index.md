@@ -1,4 +1,4 @@
-# Discrimination Wiki
+# SIN (Social INjustice) Wiki
 
 Description
 
