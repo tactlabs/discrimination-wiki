@@ -6,6 +6,6 @@ Description
 
   * [Breast Tax](breast-tax.md)
   * [Self Respect](self-respect-movement.md)
-
+  * [Misc Events](misc.md)
 
 
